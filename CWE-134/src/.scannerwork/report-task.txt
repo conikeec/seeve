@@ -1,0 +1,7 @@
+organization=panava
+projectKey=panava_C-C-_CWE
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.2295
+dashboardUrl=https://sonarcloud.io/dashboard?id=panava_C-C-_CWE
+ceTaskId=AW4hzPvv54a67uNfh8IU
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW4hzPvv54a67uNfh8IU
